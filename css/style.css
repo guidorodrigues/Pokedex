@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+
+*{
+    font-family: 'Oxanium', Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, #0dd0f3, #f1f1f1);
+}
+main{
+    background-color: red;
+    display: inline-block;
+    margin-top: 2%;
+
+}
