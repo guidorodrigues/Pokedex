@@ -9,10 +9,16 @@
 body{
     text-align: center;
     background: linear-gradient(to bottom, #0dd0f3, #f1f1f1);
+    min-height: 100%;
+    
 }
 main{
     background-color: red;
     display: inline-block;
     margin-top: 2%;
 
+}
+
+.pokedex{
+    width: 100% ;
 }
